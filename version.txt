@@ -1,1 +1,1 @@
-echo "VERSION=2.0.0"
+echo "VERSION=3.0.0"
