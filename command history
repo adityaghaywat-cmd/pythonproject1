@@ -1,0 +1,73 @@
+ cd demo
+  927  ls
+  928  clear
+  929  ls
+  930  mkdir python
+  931  ls
+  932  mv python mypython
+  933  ls
+  934  clear
+  935  cd mypython/
+  936  ls
+  937  clear
+  938  pwd
+  939  vim app.py
+  940  python3 app.py 
+  941  clear
+  942  pip3 install flask
+  943  clear
+  944  ls
+  945  clear
+  946  pip3 install flask
+  947  clear
+  948  vim app.py 
+  949  python3 app.py
+  950  clear
+  951  vim app.py 
+  952  python3 app.py &
+  953  clear
+  954  nohup python3 app.py > flask.log 2>&1 &
+  955  clear
+  956  vim app.py 
+  957  python3 app.py &
+  958  clear
+  959  python3 app.py &
+  960  nohup python3 app.py >/dev/null 2>&1 &
+  961  clear
+  962  clearclear
+  963  clear
+  964  python3 app.py
+  965  clear
+  966  python3 app.py
+  967  nohup python3 app.py >/dev/null 2>&1 &
+  968  clear
+  969  kiss 6246
+  970  clear
+  971  kill 6246
+  972  ps -a
+  973  kill 6061
+  974  ps -a
+  975  clear
+  976  nohup python3 app.py >/dev/null 2>&1 &
+  977  clear
+  978  cat app.py 
+  979  clear
+  980  vim app.py 
+  981  git init
+  982  clear
+  983  git add *
+  984  git commit -m "Done"
+  985  clear
+  986  git remote add origin https://github.com/adityaghaywat-cmd/python1.git
+  987  git branch -M main
+  988  git push -u origin main
+  989  clear
+  990  ps -a
+  991  kill 6269
+  992  ps -a
+  993  clear
+  994  ps -a
+  995  ping google.com
+  996  clear
+  997  ps -a
+  998  su - jenkins 
